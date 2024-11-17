@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rendu
 
 Je vais noter votre investissement durant nos séances et vous envoyer des retours pour améliorer votre rendu.  
@@ -12,3 +13,6 @@ Quand vous avez push votre branch sur votre repository, un bouton devrait s'affi
 12 points sur les exercices.  
 +2 point par exercice bonus réalisé.  
 Total sur 20 (Max 20)
+=======
+# course-ci
+>>>>>>> 276042229fd2b6d9d9c0ab4328715de80f7c95f7
